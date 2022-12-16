@@ -1,5 +1,8 @@
-### Hi there 👋
+### ✨ Hi there ✨
 
+- 🌱 I’m currently learning and working on Ruby on Rails apps
+- ⚡ Inspired by positive social impact work
+- 📫 How to reach me: https://www.linkedin.com/in/abarrettdc/
 <!--
 **Aliciawyse/aliciawyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
